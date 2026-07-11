@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,10 +23,22 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./output
-          force_orphan: true
+      - name: Deploy to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Save generated files to temp
+          mkdir -p /tmp/snake
+          cp output/*.svg /tmp/snake/
+          # Switch to output branch
+          git fetch origin output
+          git checkout output
+          # Copy saved files
+          cp /tmp/snake/*.svg .
+          git add *.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update snake animation"
+            git push origin output
+          fi
