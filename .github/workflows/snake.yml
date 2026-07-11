@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -25,14 +28,13 @@ jobs:
 
       - name: Deploy to output branch
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Save generated files to temp
           mkdir -p /tmp/snake
           cp output/*.svg /tmp/snake/
+          rm -rf output
           # Switch to output branch
           git fetch origin output
-          git checkout output
+          git checkout -b output origin/output 2>/dev/null || git switch output
           # Copy saved files
           cp /tmp/snake/*.svg .
           git add *.svg
