@@ -41,21 +41,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| 🧠 [NexusCompanion](https://github.com/1L7V5101V/NexusCompanion) | AI Companion 项目 | Python |
-| ⚡ [NovaCode](https://github.com/1L7V5101V/NovaCode) | 新一代开发工具 | Python |
-| 📄 [DocMind](https://github.com/1L7V5101V/DocMind) | 智能文档处理 | Java |
-| 🎧 [Cortex-DJ](https://github.com/1L7V5101V/Cortex-DJ) | 智能音乐系统 | Python |
-| 🛍️ [mall4cloud](https://github.com/1L7V5101V/mall4cloud) | 微服务商城系统 | Java |
-
-</div>
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -78,15 +63,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=1L7V5101V&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 ---
 
 ## 📈 Activity Graph
