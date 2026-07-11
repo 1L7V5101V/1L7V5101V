@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -23,7 +23,7 @@
 - 💻 Python · Java
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +38,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -62,7 +62,7 @@
 
 </div>
 
----
+
 
 ## 📈 Activity Graph
 
@@ -72,7 +72,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
