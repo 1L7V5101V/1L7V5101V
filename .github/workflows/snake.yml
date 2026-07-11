@@ -30,8 +30,8 @@ jobs:
         run: |
           # Save generated files to temp
           mkdir -p /tmp/snake
-          cp output/*.svg /tmp/snake/
-          rm -rf output
+          sudo cp output/*.svg /tmp/snake/
+          sudo rm -rf output
           # Switch to output branch
           git fetch origin output
           git checkout -b output origin/output 2>/dev/null || git switch output
