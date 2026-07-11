@@ -19,25 +19,14 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "1L7V5101V"
-        self.education = {
-            "bachelor": "NBU 📍",
-            "master": "XJTU 📍"
-        }
-        self.languages = ["Python 🐍", "Java ☕"]
-        self.interests = [
-            "Full-Stack Development",
-            "Open Source",
-            "AI & Machine Learning"
-        ]
-        self.motto = "Stay hungry, stay foolish."
+- 👋 Hi, I'm **1L7V5101V**
+- 🎓 **NBU** 本科 → **XJTU** 硕士在读
+- 💻 **Python** 🐍 · **Java** ☕
+- 🔭 热爱全栈开发与开源
+- 🌱 持续学习，不断成长
+- ⚡ Stay hungry, stay foolish.
 
-    def greet(self) -> str:
-        return "Thanks for visiting my profile! ✨"
-```
+> *"Thanks for visiting my profile! ✨"*
 
 ---
 
