@@ -8,9 +8,9 @@
 <!-- 个性签名 -->
 <p><i>🚀 Code. Learn. Innovate.</i></p>
 
-<!-- 社交图标 -->
+<!-- 社交/联系图标 -->
 <a href="https://github.com/1L7V5101V">
-  <img src="https://img.shields.io/badge/GitHub-1L7V5101V-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=A855F7" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -19,14 +19,10 @@
 
 ## 🧑‍💻 About Me
 
-- 👋 Hi, I'm **1L7V5101V**
 - 🎓 **NBU** 本科 → **XJTU** 硕士在读
-- 💻 **Python** 🐍 · **Java** ☕
+- 💻 Python · Java
 - 🔭 热爱全栈开发与开源
-- 🌱 持续学习，不断成长
-- ⚡ Stay hungry, stay foolish.
-
-> *"Thanks for visiting my profile! ✨"*
+- 📝 持续学习，不断成长
 
 ---
 
@@ -34,18 +30,12 @@
 
 <div align="center">
 
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<!-- Java -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<!-- Linux -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<!-- VS Code -->
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<!-- Docker -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -66,7 +56,6 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -95,17 +84,16 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=1L7V5101V&theme=darkhub&no-frame=true&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1L7V5101V&theme=darkhub&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-[![1L7V5101V's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1L7V5101V&theme=github-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![1L7V5101V's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1L7V5101V&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -114,9 +102,6 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=1L7V5101V&color=A855F7&style=flat-square" alt="Profile views" />
-
-<!-- 动态波浪 footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" />
 
 **⭐ Keep exploring, keep creating!**
 
