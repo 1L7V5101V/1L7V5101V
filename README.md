@@ -71,22 +71,16 @@
 
 <div align="center">
 
-<!-- 统计徽章 -->
+<!-- 文字统计 -->
 <p>
   <img src="https://img.shields.io/badge/⭐%20Stars-1-purple?style=for-the-badge&color=A855F7" />
   <img src="https://img.shields.io/badge/📦%20Repos-5-purple?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/📝%20Commits-4-purple?style=for-the-badge&color=A855F7" />
 </p>
 
 <br/>
 
-<!-- GitHub Stats 卡片 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1L7V5101V&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1L7V5101V&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" />
-
-<br/>
-<br/>
-
-<!-- 贡献蛇形动画 -->
+<!-- 蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1L7V5101V/1L7V5101V/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1L7V5101V/1L7V5101V/output/github-contribution-grid-snake.svg" />
