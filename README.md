@@ -68,7 +68,7 @@
 
 <div align="center">
 
-[![1L7V5101V's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1L7V5101V&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![1L7V5101V's github activity graph](https://github-activity-graph.luckylinux.dev/graph?username=1L7V5101V&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
