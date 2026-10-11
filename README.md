@@ -44,12 +44,14 @@
 
 <div align="center">
 
-<!-- 文字统计 -->
+<!-- 文字统计：数字由 GitHub Action 每天自动刷新（见 .github/scripts/update_stats.py），请勿手动改 -->
+<!-- STATS:START -->
 <p>
-  <img src="https://img.shields.io/badge/⭐%20Stars-36-purple?style=for-the-badge&color=A855F7" />
-  <img src="https://img.shields.io/badge/📦%20Repos-13-purple?style=for-the-badge&color=A855F7" />
-  <img src="https://img.shields.io/badge/📝%20Commits-2141-purple?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/⭐%20Stars-26-purple?style=for-the-badge&color=A855F7" alt="Stars" />
+  <img src="https://img.shields.io/badge/📦%20Repos-12-purple?style=for-the-badge&color=A855F7" alt="Repos" />
+  <img src="https://img.shields.io/badge/📝%20Commits-1721-purple?style=for-the-badge&color=A855F7" alt="Commits" />
 </p>
+<!-- STATS:END -->
 
 <br/>
 
