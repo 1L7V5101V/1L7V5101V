@@ -46,9 +46,9 @@
 
 <!-- 文字统计 -->
 <p>
-  <img src="https://img.shields.io/badge/⭐%20Stars-1-purple?style=for-the-badge&color=A855F7" />
-  <img src="https://img.shields.io/badge/📦%20Repos-5-purple?style=for-the-badge&color=A855F7" />
-  <img src="https://img.shields.io/badge/📝%20Commits-4-purple?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/⭐%20Stars-36-purple?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/📦%20Repos-13-purple?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/📝%20Commits-2141-purple?style=for-the-badge&color=A855F7" />
 </p>
 
 <br/>
