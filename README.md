@@ -48,8 +48,8 @@
 <!-- STATS:START -->
 <p>
   <img src="https://img.shields.io/badge/⭐%20Stars-26-purple?style=for-the-badge&color=A855F7" alt="Stars" />
-  <img src="https://img.shields.io/badge/📦%20Repos-15-purple?style=for-the-badge&color=A855F7" alt="Repos" />
-  <img src="https://img.shields.io/badge/📝%20Commits-1642-purple?style=for-the-badge&color=A855F7" alt="Commits" />
+  <img src="https://img.shields.io/badge/📦%20Repos-16-purple?style=for-the-badge&color=A855F7" alt="Repos" />
+  <img src="https://img.shields.io/badge/📝%20Commits-1643-purple?style=for-the-badge&color=A855F7" alt="Commits" />
 </p>
 <!-- STATS:END -->
 
